@@ -2,4 +2,4 @@
 ## Sous titre
 
 Bla bla !
-Bla bla
+Bla **bla**
